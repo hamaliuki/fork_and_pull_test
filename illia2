@@ -1,0 +1,7 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1960       1    1960      17352  cons0     197612 19:12:22 /usr/bin/bash
+     2183       1    2183      24272  ?         197612 20:59:46 /usr/bin/mintty
+     2176    2175    2175      26040  ?         197612 20:59:14 /c/Users/gamal/AppData/Local/Programs/Microsoft VS Code/Code
+     2175       1    2175      10684  ?         197612 20:59:14 /usr/bin/sh
+     2267    2184    2267      16260  pty0      197612 21:37:54 /usr/bin/ps
+     2184    2183    2184      19596  pty0      197612 20:59:46 /usr/bin/bash
